@@ -12,7 +12,7 @@ Open source thrives on collaboration, and I wanted to create something that not 
 🌟 How to Get Involved:
 I’d love contributions and feedback! Here’s how you can help:
 
-Check Out the Repo: [Link to your project]
+Check Out the Repo: git@github.com:Francis-Sawyer123/TrackerSmsTraffic.git
 Submit Issues: Report any bugs or suggest features!
 Contribute: Fork the repo, make improvements, and submit pull requests.
 🤝 Join the Celebration!
